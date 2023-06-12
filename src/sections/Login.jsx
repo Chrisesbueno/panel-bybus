@@ -22,8 +22,8 @@ const Login = () => {
     <div className="container section">
       <div className={styles.content}>
         <div className={styles.title}>
-          <Image src={login.image} alt="" />
-          <h2>- Panel Administrativo</h2>
+          <Image src={login.image} alt=" " />
+          <h2>- Panel Administrativo </h2>
         </div>
         <div className={styles.inputs}>
           <TextField id="email" label="Email" variant="outlined"/>
